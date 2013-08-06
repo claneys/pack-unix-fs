@@ -1,0 +1,25 @@
+{
+	"name": "unix-fs",
+	"types": ["pack"],
+	"version": "1.4",
+	"homepage": "https://github.com/claneys/pack-unix-fs",
+	"author": "Jean Gabes",
+	"description": "Templates examples about unix filesystems",
+	"contributors": [
+	  {
+		"name": "Romain Forlot",
+		"email": "rforlot@yahoo.com"
+	  } 
+	],
+	"repository": "https://github.com/claneys/pack-unix-fs",
+	"keywords": [
+	  "pack",
+	  "fs",
+	  "unix",
+	  "filesystem"
+	],
+	"dependencies": {
+	  "shinken": ">=1.4"
+	},
+	"license": "AGPL"
+}
